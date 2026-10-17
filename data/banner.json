@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "CLIENT",
+  "PROJECT",
+  "HOURS",
+  "PROPOSAL",
+  "INVOICE",
+  "RETAINER",
+  "BRIEF",
+  "SCOPE",
+  "TIMESHEET",
+  "PORTAL",
+  "DELIVER",
+  "RATE",
+  "KANBAN",
+  "CONTRACT",
+  "SOW",
+  "REVIEW"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Freelancing and Agency",
+  " Tools"
+ ],
+ "title_size": 88,
+ "sub1": "PROJECTS  |  TIME  |  INVOICES",
+ "sub2": "CLIENTS  |  PROPOSALS  |  SITES",
+ "foot": "Open-source freelancer and agency software, each checked for license and activity"
+}

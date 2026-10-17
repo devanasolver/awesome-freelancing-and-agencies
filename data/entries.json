@@ -1,0 +1,250 @@
+[
+  {
+    "repo": "documenso/documenso",
+    "category": "contracts",
+    "description": "Open-source document signing platform.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "docusealco/docuseal",
+    "category": "contracts",
+    "description": "Open-source document filling and signing.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "OpenSignLabs/OpenSign",
+    "category": "contracts",
+    "description": "Open-source document signing platform.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "espocrm/espocrm",
+    "category": "crm",
+    "description": "Open-source CRM platform you can self-host.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "frappe/crm",
+    "category": "crm",
+    "description": "Open-source CRM built on the Frappe framework.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "monicahq/monica",
+    "category": "crm",
+    "description": "Personal CRM to remember details about people you know.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "twentyhq/twenty",
+    "category": "crm",
+    "description": "Modern open-source CRM.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "akaunting/akaunting",
+    "category": "invoice",
+    "description": "Free online accounting software.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "btcpayserver/btcpayserver",
+    "category": "invoice",
+    "description": "Self-hosted Bitcoin payment processor.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "invoiceninja/invoiceninja",
+    "category": "invoice",
+    "description": "Invoicing, quotes and payments for small businesses.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "InvoiceShelf/InvoiceShelf",
+    "category": "invoice",
+    "description": "Open-source invoicing app for freelancers and small businesses.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "chatwoot/chatwoot",
+    "category": "portal",
+    "description": "Open-source customer messaging and shared inbox.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "cryptpad/cryptpad",
+    "category": "portal",
+    "description": "End-to-end encrypted collaboration suite.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "nextcloud/server",
+    "category": "portal",
+    "description": "Self-hosted cloud for files, calendar, contacts and docs.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "zammad/zammad",
+    "category": "portal",
+    "description": "Web-based open-source helpdesk and support system.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "AppFlowy-IO/AppFlowy",
+    "category": "projects",
+    "description": "Open-source Notion alternative.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "kanboard/kanboard",
+    "category": "projects",
+    "description": "Simple kanban project management software.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "makeplane/plane",
+    "category": "projects",
+    "description": "Open-source project management tool for tasks, cycles and docs.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "redmine/redmine",
+    "category": "projects",
+    "description": "Flexible project management web application.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "taigaio/taiga-back",
+    "category": "projects",
+    "description": "Backend of the Taiga agile project management tool.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-28"
+  },
+  {
+    "repo": "wekan/wekan",
+    "category": "projects",
+    "description": "Open-source kanban board.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "alextselegidis/easyappointments",
+    "category": "scheduling",
+    "description": "Self-hosted appointment scheduler.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "calcom/cal.diy",
+    "category": "scheduling",
+    "description": "Open-source scheduling infrastructure, an alternative to Calendly.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-26"
+  },
+  {
+    "repo": "11ty/buildawesome",
+    "category": "sites",
+    "description": "Simple static site generator in JavaScript.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "category": "sites",
+    "description": "Fast static site generator written in Go.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "vercel/next.js",
+    "category": "sites",
+    "description": "React framework for the web.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "withastro/astro",
+    "category": "sites",
+    "description": "Web framework for content-driven sites.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ActivityWatch/activitywatch",
+    "category": "time",
+    "description": "Open-source automated time tracker.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "kimai/kimai",
+    "category": "time",
+    "description": "Open-source time tracking application.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "solidtime-io/solidtime",
+    "category": "time",
+    "description": "Open-source time tracker for freelancers and teams.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "wakatime/wakatime-cli",
+    "category": "time",
+    "description": "Command-line tool for the WakaTime coding time tracker. The service has paid plans.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  }
+]
